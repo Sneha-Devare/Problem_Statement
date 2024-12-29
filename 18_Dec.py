@@ -1,2 +1,0 @@
-#1.Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,
-#2.Write a program that accepts a sequence of whitespace separated words as input and prints the words after removing all duplicate words and sorting them alphanumerically.
